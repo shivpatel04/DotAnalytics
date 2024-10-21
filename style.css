@@ -373,7 +373,7 @@ a{
 }
 .footer{
     background-color: #24262b;
-    
+    margin-top: 5px;
     padding: 30px 40px;
     bottom: 0; 
     /* position: absolute; */
